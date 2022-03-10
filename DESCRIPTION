@@ -1,12 +1,8 @@
-Package: markdownapp
+Package: custom-opencpu-program
 Type: Package
-Title: Markdown Application for OpenCPU
+Title: Test Custom OpenCPU Package
 Version: 2.0
-Author: Jeroen Ooms
-Maintainer: Jeroen Ooms <jeroen@berkeley.edu>
+Author: Tait Hoyem
+Maintainer: Tait Hoyem <tait@tait.tech>
 Description: OpenCPU App for markdown package
-License: Apache2
-Depends:
-    knitr,
-    markdown,
-    ggplot2
+License: GPLv3

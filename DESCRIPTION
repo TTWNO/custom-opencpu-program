@@ -1,4 +1,4 @@
-Package: custom-opencpu-program
+Package: cop
 Type: Package
 Title: Test Custom OpenCPU Package
 Version: 2.0
